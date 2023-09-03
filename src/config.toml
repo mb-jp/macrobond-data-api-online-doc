@@ -1,0 +1,11 @@
+packages = [
+    "macrobond_data_api", 
+    "pyodide-http",
+    "matplotlib",
+    "statsmodels",
+    "scikit-learn",
+    "pandas"
+    ]
+
+[[fetch]]
+files = ["./init.py", "./fake.py", "./fake_keyring.py"]

@@ -1,0 +1,11 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Run test server",
+            "type": "shell",
+            "command": "dotnet run --project TestWebApplication\\TestWebApplication.csproj",
+            "problemMatcher":[]
+        }
+    ]
+}

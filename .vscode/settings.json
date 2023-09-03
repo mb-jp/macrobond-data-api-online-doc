@@ -1,0 +1,9 @@
+{
+    "files.exclude": {
+        "**/__pycache__": true,
+        "**/.mypy_cache": true,
+        "TestWebApplication/bin": true,
+        "TestWebApplication/obj": true
+    },
+    "task.autoDetect": "off"
+}

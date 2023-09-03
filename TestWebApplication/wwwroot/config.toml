@@ -1,0 +1,12 @@
+
+packages = [
+    "./wheels/macrobond_data_api-2.0.1-py3-none-any.whl",
+    "pyodide-http",
+    "matplotlib",
+    "statsmodels",
+    "scikit-learn",
+    "pandas"
+    ]
+
+[[fetch]]
+    files = ["./init.py","./adapter.py", "./fake.py", "./fake_keyring.py"]
